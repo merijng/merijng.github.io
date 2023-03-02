@@ -1,4 +1,4 @@
-baseURL: "https://merijng.github.com/"
+baseURL: "https://merijng.github.io/"
 languageCode: "en-us"
 title: "Merijn Geurts"
 theme: hugo-profile
@@ -129,7 +129,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/merijng
+          url: https://merijng.github.io
         - icon: fa fa-envelope
           url: mailto:info@merijngeurts.nl
     #  customIcons:
@@ -324,7 +324,7 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com/merijng
+      github: https://merijng.github.io
 
   # List pages like blogs and posts
   listPages:
