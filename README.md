@@ -1,5 +1,5 @@
 # Welcome to Merijn's GitHub Page!
-This is my personal GitHub page where I share my projects and code snippets.
+This is my [personal GitHub page](https://merijng.github.io/) where I share my projects and code snippets.
 
 ## About Me
 A passionate software engineer. I can easily automate your business processes.
