@@ -10,11 +10,10 @@ A passionate software engineer. I can easily automate your business processes.
 - [Umbraco](https://github.com/umbraco/Umbraco-CMS)
 - Kentico
 - [Javascript/Vue](https://github.com/vuejs/core)
-- "MSSQL"
 - [Azure](https://github.com/Azure)
-- "Azure DevOps"
 - [React](https://github.com/facebook/react)
 - [Typescript](https://github.com/microsoft/TypeScript)
+- MSSQL
 
 # Contact
 Feel free to contact me through info@merijngeurts.nl.
