@@ -129,7 +129,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://merijng.github.io
+          url: https://github.com/merijng
         - icon: fa fa-envelope
           url: mailto:info@merijngeurts.nl
     #  customIcons:
@@ -324,7 +324,7 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://merijng.github.io
+      github: https://github.com/merijng
 
   # List pages like blogs and posts
   listPages:
