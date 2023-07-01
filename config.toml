@@ -1,0 +1,106 @@
+baseurl = "/"
+defaultContentLanguage = 'nl'
+languageCode = "nl-NL"
+# Add it only if you keep the theme in the `themes` directory.
+# Remove it if you use the theme as a remote Hugo Module.
+# theme = "terminal"
+paginate = 5
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "orange"
+
+  showMenuItems = 2
+  showLanguageSelector = true
+  fullWidthTheme = true
+  centerTheme = true
+  autoCover = true
+
+  showLastUpdated = true
+  # favicon = "favicon.ico"
+  # updatedDatePrefix = "Updated"
+  oneHeadingSize = false # default
+  readingTime = true # default
+  Toc = true # default
+  TocTitle = "Table of Contents" # default
+
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = "English"
+    title = "Merijn Geurts"
+    subtitle = "Software engineer"
+    owner = "Merijn Geurts"
+    keywords = "Software engineer"
+    copyright = "Merijn Geurts"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Merijn Geurts"
+      logoHomeLink = "/en"
+
+    #[languages.en.menu]
+    #  [[languages.en.menu.main]]
+    #    identifier = "about"
+    #    name = "About"
+    #    url = "/en/about"
+    #  [[languages.en.menu.main]]
+    #    identifier = "showcase"
+    #    name = "Showcase"
+    #    url = "/en/showcase"
+
+  [languages.nl]
+    contentDir = 'content/nl'
+    languageName = "Nederlands"
+    title = "Merijn Geurts"
+    subtitle = "Software ingenieur"
+    owner = "Merijn Geurts"
+    keywords = "Software engineer"
+    copyright = "Merijn Geurts"
+    menuMore = "Toon meer"
+    readMore = "Lees meer"
+    readOtherPosts = "Lees andere berichten"
+    newerPosts = "Nieuwere berichten"
+    olderPosts = "Oudere berichten"
+    missingContentMessage = "Pagina niet gevonden..."
+    missingBackButtonLabel = "Terug naar de startpagina"
+
+    [languages.nl.params.logo]
+      logoText = "Merijn Geurts"
+      logoHomeLink = "/"
+
+    #[languages.nl.menu]
+    #  [[languages.nl.menu.main]]
+    #    identifier = "about"
+    #    name = "Over"
+    #    url = "/over"
+    #  [[languages.nl.menu.main]]
+    #    identifier = "showcase"
+    #    name = "Showcase"
+    #    url = "/showcase"
+
+# [module]
+  # In case you would like to make changes to the theme and keep it locally in you repository,
+  # uncomment the line below (and correct the local path if necessary).
+  # --
+  # replacements = "github.com/panr/hugo-theme-terminal -> themes/terminal"
+# [[module.imports]]
+ # path = 'github.com/panr/hugo-theme-terminal'
