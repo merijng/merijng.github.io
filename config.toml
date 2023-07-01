@@ -16,7 +16,7 @@ paginate = 5
 
   showMenuItems = 2
   showLanguageSelector = true
-  fullWidthTheme = true
+  fullWidthTheme = false
   centerTheme = true
   autoCover = true
 
