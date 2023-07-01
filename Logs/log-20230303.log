@@ -1,8 +1,0 @@
-{"@t":"2023-03-03T09:58:33.4409799Z","@mt":"------ Uitvoeren van CloneAsync gestart! ------","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
-{"@t":"2023-03-03T09:58:33.4730713Z","@mt":"Project lijkt al gecloned te zijn! Clonen is overgeslagen.","@l":"Warning","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
-{"@t":"2023-03-03T09:58:33.4766788Z","@mt":"------ Uitvoeren van RunLocalDeploymentScriptAsync gestart! ------","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
-{"@t":"2023-03-03T09:58:33.4779360Z","@mt":"DeployProjectLocal.ps1 niet gevonden, uitvoeren script wordt overgeslagen!","@l":"Warning","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
-{"@t":"2023-03-03T09:58:33.4783925Z","@mt":"GIT Repository is aangemaakt onder: P:\\GIT\\KenticoModules\\Frontis.Deployment","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
-{"@t":"2023-03-03T09:58:33.4787997Z","@mt":"","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
-{"@t":"2023-03-03T09:58:33.4790303Z","@mt":"Zie de wiki voor eventuele handmatige acties.","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
-{"@t":"2023-03-03T09:58:33.4791935Z","@mt":"https://devops.frontis.nl/frontiscollection/Frontisbv/_wiki/wikis/Frontisbv.wiki/2130/Init-project","SourceContext":"Frontis.Mate.ConsoleApplication.Receivers.ConsoleLogReceiver"}
