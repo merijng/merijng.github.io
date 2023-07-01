@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://merijng.github.io/"
 defaultContentLanguage = 'nl'
 languageCode = "nl-NL"
 # Add it only if you keep the theme in the `themes` directory.

@@ -4,7 +4,7 @@ title: "Welkom op mijn homepage"
 
 # Over Merijn Geurts
 
-Hallo! Ik ben Merijn, een toegewijde en gepassioneerde **Software Ingenieur**. Mijn reis in de technologiewereld is spannend en divers geweest.
+Hallo! Ik ben Merijn, een toegewijde en gepassioneerde **Software engineer**.
 
 ## Huidige Rol
 

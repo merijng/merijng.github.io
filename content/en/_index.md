@@ -4,7 +4,7 @@ title: "Welcome to my homepage"
 
 # About Merijn Geurts
 
-Hello! I'm Merijn, a dedicated and passionate **Software Engineer**. My journey in the tech world has been exciting and diverse.
+Hello! I'm Merijn, a dedicated and passionate **Software Engineer**.
 
 ## Current Role
 
