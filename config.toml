@@ -3,7 +3,7 @@ defaultContentLanguage = 'nl'
 languageCode = "nl-NL"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-# theme = "terminal"
+theme = "terminal"
 paginate = 5
 
 [params]
@@ -54,6 +54,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
+    _merge = "none"
       logoText = "Merijn Geurts"
       logoHomeLink = "/en"
 
@@ -84,6 +85,7 @@ paginate = 5
     missingBackButtonLabel = "Terug naar de startpagina"
 
     [languages.nl.params.logo]
+    _merge = "none"
       logoText = "Merijn Geurts"
       logoHomeLink = "/"
 
