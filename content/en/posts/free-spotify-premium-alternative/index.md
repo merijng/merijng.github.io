@@ -23,8 +23,8 @@ Setting it up is surprisingly simple and only takes a few minutes.
 
 If you're not already using Brave, now is the time to start.
 
-1.  Go to the official website: [brave.com](https://brave.com)
-2.  Download and install the browser for your operating system (Windows, macOS, Linux).
+1.  Go to the official website: [brave.com](https://brave.com).
+2.  Download and install the browser.
 
 Brave works just like Chrome or Firefox, so switching is easy. You can even import your bookmarks and extensions.
 

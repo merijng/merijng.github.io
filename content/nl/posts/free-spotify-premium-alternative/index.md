@@ -23,8 +23,8 @@ Het opzetten is verrassend eenvoudig en duurt slechts een paar minuten.
 
 Als je Brave nog niet gebruikt, is dit het moment om te beginnen.
 
-1.  Ga naar de officiële website: [brave.com](https://brave.com)
-2.  Download en installeer de browser voor jouw besturingssysteem (Windows, macOS, Linux).
+1.  Ga naar de officiële website: [brave.com](https://brave.com).
+2.  Download en installeer de browser.
 
 Brave werkt net als Chrome of Firefox, dus de overstap is eenvoudig. Je kunt zelfs je bladwijzers en extensies importeren.
 
